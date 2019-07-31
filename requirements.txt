@@ -1,4 +1,4 @@
-Django==1.11
+Django==1.11.22
 beautifulsoup4==4.6.0
 requests
 lxml
