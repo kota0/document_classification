@@ -8,7 +8,7 @@
 
 2.git cloneでローカル環境にリポジトリをクローン
 ```
-git clone https://f386246be7e5233a024064bd11db59604fb52c20:x-oauth-basic@github.com/kota0/naive_bayes_classifier
+git clone https://f386246be7e5233a024064bd11db59604fb52c20:x-oauth-basic@github.com/kota0/document-classification
 ```
 
 3.Dockerfileからイメージをビルド
